@@ -3,6 +3,13 @@ name = "advancedresearch-graph_builder"
 version = "0.1.0"
 authors = ["Sven Nilsen <bvssvni@gmail.com>"]
 edition = "2018"
+keywords = ["advancedresearch", "mathematics", "category", "graph"]
+description = "An algorithm for generating graphs with post-filtering and edge composition"
+license = "MIT"
+repository = "https://github.com/advancedresearch/graph_builder.git"
+homepage = "https://github.com/advancedresearch/graph_builder"
+documentation = "https://docs.rs/advancedresearch-graph_builder"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
